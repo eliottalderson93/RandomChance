@@ -1,0 +1,5 @@
+Make a function that takes a number of Quarters, 1 quarter per game.
+There is a 1 in 100 chance to win the game.
+While the user still has quarters, use math.random to see if they won.
+If they win, return how many total quarters they have.
+return 0 if all quarters were wasted.
